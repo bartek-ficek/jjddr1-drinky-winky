@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project of integrated web and console application that forms usable and wide base most popular drinks. Team project developed with the use of tools and technologies known during the course Junior Java Developer in programming school infoShare Academy. App designed with a multi-tier architecture. Team tasks management by Jira platform. Managaing software development in accordance with the Scrum approach.
+Project of integrated web and console application that forms usable and wide base of most popular drinks. Team project developed with the use of tools and technologies known during the course Junior Java Developer in programming school infoShare Academy. App designed with a multi-tier architecture. Team tasks management by Jira platform. Managaing software development in accordance with the Scrum approach.
 
 ## Functionality:
 - reviewing several hundred drink existing in database and creating new ones
