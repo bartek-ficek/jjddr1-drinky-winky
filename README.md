@@ -16,15 +16,13 @@ Project of integrated web and console application that forms usable and wide bas
 ## Tech Stack:
 - JDK14
 - Java EE 8 (essentially EJB, CDI, JPA, Servlets)
-- Database: MySQL
+- Database: MySQL (Virtualization with Docker)
 - ORM: Hibernate 
 - Data format: JSON
+- Serialization: Jackson
 - Appllication Server: Wildfly 
 - GUI: HTML5, CSS3, JavaScript
 - Template engine: Freemarker 
-- IDE: Intellij IDEA 
 - Project management and building: Apache Maven
-
-
-
-
+- IDE: Intellij IDEA
+- Version Control system: Git
